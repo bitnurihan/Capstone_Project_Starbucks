@@ -5,7 +5,7 @@
 
 ### 2. Data Used
 #### For analysis of strategic differences by country, the correlation between the number of workers, population, average income data and the number of Starbucks stores in each cities are analyzed.
----
+
 - Seoul Starbucks location data : 'https://www.data.go.kr/dataset/15012005/fileData.do'
 - Seoul income / population(total/employee) : 'https://stats.nts.go.kr/national/major_detail.asp?year=2019&catecode=A04011#'
 - Seoul places data : 'https://enterprise.foursquare.com/'
